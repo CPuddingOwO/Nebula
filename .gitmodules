@@ -1,0 +1,16 @@
+[submodule "ext/imgui"]
+	path = ext/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "ext/cmdline"]
+	path = ext/cmdline
+	url = https://github.com/tanakh/cmdline
+[submodule "ext/stb"]
+	path = ext/stb
+	url = https://github.com/nothings/stb
+[submodule "ext/glfw"]
+    path = ext/glfw
+    url = https://github.com/glfw/glfw
+[submodule "ext/glad"]
+    path = ext/glad
+    url = https://github.com/Dav1dde/glad
+    branch = c
